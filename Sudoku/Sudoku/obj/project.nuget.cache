@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8EAgEYwhQyCVhTUhpn7lcoNAPaePhz18T5pvfQmhjY1emMN3k0atd/7ffP0ODdj8P++om4FefNeQVSGg0glfXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lpval\\Documents\\Repositories\\Sudoku\\Sudoku\\Sudoku.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lpval\\.nuget\\packages\\towel\\1.0.40\\towel.1.0.40.nupkg.sha512"
+  ],
+  "logs": []
+}
